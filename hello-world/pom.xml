@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ascii-console</artifactId>
+    <artifactId>hello-world</artifactId>
 
     <dependencies>
         <dependency>

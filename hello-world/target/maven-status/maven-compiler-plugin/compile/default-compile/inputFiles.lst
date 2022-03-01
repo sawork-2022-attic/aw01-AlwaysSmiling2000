@@ -1,6 +1,6 @@
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/ascii/AsciiCharReader.java
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/ascii/AsciiConsole.java
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/ascii/AsciiCharPrinter.java
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/ascii/AsciiCharListener.java
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/HelloWorld.java
-/mnt/d/2022_spring/软件体系结构/hw/aw01/ascii-console/src/main/java/org/sawork2022/ascii/AsciiCharBuffer.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/HelloWorld.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/ascii/AsciiCharPrinter.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/ascii/AsciiConsole.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/ascii/AsciiCharBuffer.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/ascii/AsciiCharListener.java
+/mnt/d/2022_spring/软件体系结构/hw/aw01/hello-world/src/main/java/org/sawork2022/ascii/AsciiCharReader.java
